@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kalkulator Built by Kotlin</string>
+    <string name="c">C</string>
+    <string name="kurung_buka1">(</string>
+    <string name="kurung_buka2">)</string>
+    <string name="bagi">/</string>
+    <string name="angka_1">1</string>
+    <string name="angka_2">2</string>
+    <string name="angka_3">3</string>
+    <string name="kali">x</string>
+    <string name="angka_4">4</string>
+    <string name="angka_5">5</string>
+    <string name="angka_6">6</string>
+    <string name="kurang">-</string>
+    <string name="angka_7">7</string>
+    <string name="angka_8">8</string>
+    <string name="angka_9">9</string>
+    <string name="tambah">+</string>
+    <string name="angka_00">00</string>
+    <string name="angka_0">0</string>
+    <string name="koma">.</string>
+    <string name="sama_dengan">=</string>
+</resources>
